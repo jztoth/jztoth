@@ -1,4 +1,6 @@
-## Hi there 👋
+## John Toth
+
+- I am an MRes student at the University of Leeds, UK. Research project is on AI and Earth Observation.
 
 <!--
 **jztoth/jztoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
