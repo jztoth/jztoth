@@ -1,6 +1,9 @@
 ## John Toth
 
-- I am an MRes student at the University of Leeds, UK. Research project is on AI and Earth Observation.
+- I am an MRes student at the University of Leeds, UK.
+- My Research project is on AI and Earth Observation.
+- I am working with Python, Pytorch, CoLab, and Google Earth Engine.
+- I am aiming to improve landcover classification in dry land environemnts.
 
 <!--
 **jztoth/jztoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
